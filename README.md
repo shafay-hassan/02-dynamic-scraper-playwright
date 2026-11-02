@@ -16,7 +16,7 @@ pip install -r requirements.txt
 playwright install
 
 **Usage:**
-python scraper.py
+python dynamic-scraper.py
 
 **Output:**
 `data/quotes.csv` — quotes from 2 pages
