@@ -19,7 +19,7 @@ playwright install
 python dynamic-scraper.py
 
 **Output:**
-`data/quotes.csv` — quotes from 2 pages
+`quotes.csv` — quotes from 2 pages
 
 **Stack:** Python, Playwright
 
